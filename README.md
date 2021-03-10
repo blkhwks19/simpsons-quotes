@@ -1,5 +1,5 @@
-# simpsons
-Get random Simpsons quotes!
+# Simpsons Quotes
+Get random Simpsons quotes from a 3rd party Simpsons quotes API
 
 ## Project setup
 ```
